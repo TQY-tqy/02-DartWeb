@@ -1,15 +1,15 @@
-body{
-    font-family: 'Roboto',sans-serif;
-    background-color: whitesmoke;
-    margin:15px;
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: WhiteSmoke;
+    margin: 15px;
     color: black;
 }
 
-h2{
-    color:black;
+h2 {
+    color: black;
 }
 
-#to-do-input{
+#to-do-input {
     font-family: 'Roboto', sans-serif;
     font-size: 14px;
     font-weight: normal;
